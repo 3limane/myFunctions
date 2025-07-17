@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1752778572 source:c:\users\hp\onedrive\desktop\language c\programmation modulaire\myfunctions\main.c
+	<stdio.h>
+	"myFunction.h"
+
+1752770962 c:\users\hp\onedrive\desktop\language c\programmation modulaire\myfunctions\myfunction.h
+	<stdio.h>
+
+1752778420 source:c:\users\hp\onedrive\desktop\language c\programmation modulaire\myfunctions\myfunction.c
+	<stdio.h>
+	"myFunction.h"
+
